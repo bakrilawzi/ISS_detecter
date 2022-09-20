@@ -30,9 +30,9 @@ lat_iss = data2["iss_position"]["latitude"]
 position_iss = (long_iss, lat_iss)
 print(position_iss)
 #TODO-3 putting myposition in a tuple and my email data
-my_email = "bakricoder71@gmail.com"
-password = "uwylcaeagpucbrwx"
-receiver_mail = "lawzibakri100@gmail.com"
+my_email = #Add your email
+password = #add the pass generated from google
+receiver_mail = #add the receiver email 
 my_position = (my_lon,my_lat)
 print(my_position)
 #TODO-CONDITION TO CATCH THE ISS WITH MY OWN TIME AND PLACE
